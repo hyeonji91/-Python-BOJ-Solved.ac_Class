@@ -5,4 +5,4 @@ for i in range(num):
     for j in range(len(word)):
         for k in range(time):
             print(word[j], end = "")
-        print()
+    print()
