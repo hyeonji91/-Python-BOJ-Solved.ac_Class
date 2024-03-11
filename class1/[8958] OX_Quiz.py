@@ -10,5 +10,4 @@ for i in range(num):
             score = score + temp
         else:
             temp =0
-        print(j +":"+str(score))
     print(score)
